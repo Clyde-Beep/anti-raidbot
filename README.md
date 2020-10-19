@@ -17,3 +17,4 @@ npm install discord.js
 node .
 ```
 
+[![Run on Repl.it](https://repl.it/badge/github/trelll22/anti-raidbot)](https://repl.it/github/trelll22/anti-raidbot)
